@@ -281,10 +281,6 @@ conda activate ga-cipher
 
 ## Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
 ### Reproducibility
 
 Update the file paths inside the notebook to point to the local `Data/` folder (the original notebook was developed on Google Colab and reads from `/content/drive/MyDrive/Data/`), then run the cells sequentially in `Substitution_Cipher_Cryptanalysis_via_Genetic_Algorithm.ipynb`.
