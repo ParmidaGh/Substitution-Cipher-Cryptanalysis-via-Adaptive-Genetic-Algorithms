@@ -256,7 +256,6 @@ Substitution-Cipher-Cryptanalysis-via-Adaptive-Genetic-Algorithms
 │ ├── global_text.txt # Reference corpus used to build the dictionary
 │ └── encoded_text.txt # Substitution-ciphered input text
 │
-├── requirements.txt
 └── README.md
 ```
 
